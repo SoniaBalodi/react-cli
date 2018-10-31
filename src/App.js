@@ -28,7 +28,7 @@ class App extends Component {
         <Helmet>
           <meta charSet="utf-8" />
           <title>My React App</title>
-          <base target="_blank" href="http://localhost:3000/" />
+          <base target="_blank" href="http://react-ga.surge.sh/" />
           <meta name="description" content="Main component" />
           <meta property="og:type" content="Main component" />
           <link rel="canonical" href="http://mysite.com/example" />
