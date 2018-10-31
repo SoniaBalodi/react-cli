@@ -37,7 +37,7 @@ class App extends Component {
         <MainMenu />
         <h1>Hello World</h1>
         <div>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/homepage" component={Home} />
             <Route exact path="/about" component={About} />
           </div>
       </div>
