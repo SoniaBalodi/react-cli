@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { Helmet } from "react-helmet";
-import ReactGA from 'react-ga';
 
-ReactGA.pageview('/about');
 class HomeComponent extends Component {
     render() {
         return (
